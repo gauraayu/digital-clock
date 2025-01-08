@@ -1,0 +1,19 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url("/pexels-pramodtiwari-13988975.jpg");
+  background-size: 100%;
+  background-repeat: none;
+}
+
+#clock {
+  align-items: center;
+  margin-top: 17%;
+  margin-right: 5%;
+  font-size: 150%;
+  text-shadow: 5px 5px rgba(128, 128, 128, 0.7);
+}/*# sourceMappingURL=digital_clock.css.map */
