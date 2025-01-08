@@ -7,7 +7,7 @@
 body {
   background-image: url("/pexels-pramodtiwari-13988975.jpg");
   background-size: 100%;
-  background-repeat: none;
+  background-repeat: no-repeat;
 }
 
 #clock {
@@ -16,4 +16,14 @@ body {
   margin-right: 5%;
   font-size: 150%;
   text-shadow: 5px 5px rgba(128, 128, 128, 0.7);
+}
+
+#design {
+  font-size: 20px;
+  text-shadow: none;
+  justify-content: center;
+  text-align: center;
+  background-color: rgba(180, 227, 245, 0.5);
+  margin-right: 40%;
+  margin-left: 40%;
 }/*# sourceMappingURL=digital_clock.css.map */
